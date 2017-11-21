@@ -988,6 +988,7 @@ namespace Telegram_Gateway
 
         private void tbSave_Click(object sender, EventArgs e)
         {
+            if (messagesSupportInProject == null) return;
             try
             {
                 //CsConst.mySends.AddBufToSndList(null, 0x5708, 1, 1, false, false, true, false);
