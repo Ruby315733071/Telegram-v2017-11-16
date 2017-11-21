@@ -1,0 +1,19 @@
+c:\users\ruby\documents\visual studio 2012\Projects\Vingcard Gateway\Vingcard Gateway\bin\Debug\Vingcard Gateway.exe.config
+c:\users\ruby\documents\visual studio 2012\Projects\Vingcard Gateway\Vingcard Gateway\obj\Debug\Vingcard Gateway.csprojResolveAssemblyReference.cache
+c:\users\ruby\documents\visual studio 2012\Projects\Vingcard Gateway\Vingcard Gateway\obj\Debug\Vingcard_Gateway.frmMain.resources
+c:\users\ruby\documents\visual studio 2012\Projects\Vingcard Gateway\Vingcard Gateway\obj\Debug\Vingcard_Gateway.Properties.Resources.resources
+c:\users\ruby\documents\visual studio 2012\Projects\Vingcard Gateway\Vingcard Gateway\obj\Debug\Vingcard Gateway.csproj.GenerateResource.Cache
+c:\users\ruby\documents\visual studio 2012\Projects\Vingcard Gateway\Vingcard Gateway\bin\Debug\Vingcard Gateway.exe
+c:\users\ruby\documents\visual studio 2012\Projects\Vingcard Gateway\Vingcard Gateway\bin\Debug\Vingcard Gateway.pdb
+c:\users\ruby\documents\visual studio 2012\Projects\Vingcard Gateway\Vingcard Gateway\obj\Debug\Vingcard Gateway.exe
+c:\users\ruby\documents\visual studio 2012\Projects\Vingcard Gateway\Vingcard Gateway\obj\Debug\Vingcard Gateway.pdb
+c:\users\ruby\documents\visual studio 2012\Projects\Vingcard Gateway\Vingcard Gateway\bin\Debug\Newtonsoft.Json.dll
+c:\users\ruby\documents\visual studio 2012\Projects\Vingcard Gateway\Vingcard Gateway\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ruby\documents\visual studio 2012\Projects\Vingcard Gateway\Vingcard Gateway\bin\Debug\System.Net.Http.dll
+C:\Users\Ruby\documents\visual studio 2012\Projects\Vingcard Gateway\Vingcard Gateway\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Ruby\documents\visual studio 2012\Projects\Vingcard Gateway\Vingcard Gateway\bin\Debug\System.Net.Http.xml
+C:\Users\Ruby\documents\visual studio 2012\Projects\Vingcard Gateway\Vingcard Gateway\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Ruby\Documents\Visual Studio 2012\Projects\Telegram\Vingcard Gateway\bin\Debug\Vingcard Gateway.exe.config
+C:\Users\Ruby\Documents\Visual Studio 2012\Projects\Telegram\Vingcard Gateway\obj\Debug\Vingcard Gateway.exe
+C:\Users\Ruby\Documents\Visual Studio 2012\Projects\Telegram\Vingcard Gateway\obj\Debug\Vingcard Gateway.pdb
+C:\Users\Ruby\Documents\Visual Studio 2012\Projects\Telegram\Vingcard Gateway\bin\Debug\Telegram.exe.config

@@ -1,0 +1,74 @@
+C:\Users\Ruby\Documents\Visual Studio 2012\Projects\Telegram\Vingcard Gateway\obj\Debug\Telegram.csprojResolveAssemblyReference.cache
+C:\Users\Ruby\Documents\Visual Studio 2012\Projects\Telegram\Vingcard Gateway\obj\Debug\Vingcard_Gateway.frmMain.resources
+C:\Users\Ruby\Documents\Visual Studio 2012\Projects\Telegram\Vingcard Gateway\obj\Debug\Telegram.Properties.Resources.resources
+C:\Users\Ruby\Documents\Visual Studio 2012\Projects\Telegram\Vingcard Gateway\obj\Debug\Telegram.csproj.GenerateResource.Cache
+C:\Users\Ruby\Documents\Visual Studio 2012\Projects\Telegram\Vingcard Gateway\bin\Debug\Telegram.exe.config
+C:\Users\Ruby\Documents\Visual Studio 2012\Projects\Telegram\Vingcard Gateway\bin\Debug\Telegram.exe
+C:\Users\Ruby\Documents\Visual Studio 2012\Projects\Telegram\Vingcard Gateway\bin\Debug\Telegram.pdb
+C:\Users\Ruby\Documents\Visual Studio 2012\Projects\Telegram\Vingcard Gateway\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ruby\Documents\Visual Studio 2012\Projects\Telegram\Vingcard Gateway\bin\Debug\System.Net.Http.dll
+C:\Users\Ruby\Documents\Visual Studio 2012\Projects\Telegram\Vingcard Gateway\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Ruby\Documents\Visual Studio 2012\Projects\Telegram\Vingcard Gateway\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ruby\Documents\Visual Studio 2012\Projects\Telegram\Vingcard Gateway\bin\Debug\System.Net.Http.xml
+C:\Users\Ruby\Documents\Visual Studio 2012\Projects\Telegram\Vingcard Gateway\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Ruby\Documents\Visual Studio 2012\Projects\Telegram\Vingcard Gateway\obj\Debug\Telegram.exe
+C:\Users\Ruby\Documents\Visual Studio 2012\Projects\Telegram\Vingcard Gateway\obj\Debug\Telegram.pdb
+C:\Users\Administrator\Desktop\Telegram\Vingcard Gateway\bin\Debug\Telegram.exe.config
+C:\Users\Administrator\Desktop\Telegram\Vingcard Gateway\obj\Debug\Telegram.exe
+C:\Users\Administrator\Desktop\Telegram\Vingcard Gateway\obj\Debug\Telegram.pdb
+C:\Users\Administrator\Desktop\Telegram\Vingcard Gateway\bin\Debug\Telegram.exe
+C:\Users\Administrator\Desktop\Telegram\Vingcard Gateway\bin\Debug\Telegram.pdb
+C:\Users\Administrator\Desktop\Telegram\Vingcard Gateway\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Telegram\Vingcard Gateway\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\Telegram\Vingcard Gateway\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Administrator\Desktop\Telegram\Vingcard Gateway\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Telegram\Vingcard Gateway\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\Telegram\Vingcard Gateway\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Administrator\Desktop\Telegram\Vingcard Gateway\obj\Debug\Telegram.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Telegram\Vingcard Gateway\obj\Debug\Vingcard_Gateway.frmMain.resources
+C:\Users\Administrator\Desktop\Telegram\Vingcard Gateway\obj\Debug\Telegram.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Telegram\Vingcard Gateway\obj\Debug\Telegram.csproj.GenerateResource.Cache
+E:\Desktop\Telegram\Vingcard Gateway\bin\Debug\Telegram.exe.config
+E:\Desktop\Telegram\Vingcard Gateway\obj\Debug\Telegram.exe
+E:\Desktop\Telegram\Vingcard Gateway\obj\Debug\Telegram.pdb
+E:\Desktop\Telegram\Vingcard Gateway\bin\Debug\Telegram.exe
+E:\Desktop\Telegram\Vingcard Gateway\bin\Debug\Telegram.pdb
+E:\Desktop\Telegram\Vingcard Gateway\bin\Debug\System.Net.Http.dll
+E:\Desktop\Telegram\Vingcard Gateway\bin\Debug\System.Net.Http.WebRequest.dll
+E:\Desktop\Telegram\Vingcard Gateway\bin\Debug\Newtonsoft.Json.xml
+E:\Desktop\Telegram\Vingcard Gateway\bin\Debug\System.Net.Http.xml
+E:\Desktop\Telegram\Vingcard Gateway\bin\Debug\System.Net.Http.WebRequest.xml
+E:\Desktop\Telegram\Vingcard Gateway\obj\Debug\Telegram.csprojResolveAssemblyReference.cache
+E:\Desktop\Telegram\Vingcard Gateway\obj\Debug\Telegram.Properties.Resources.resources
+E:\Desktop\Telegram\Vingcard Gateway\obj\Debug\Telegram.csproj.GenerateResource.Cache
+E:\Desktop\Telegram\Vingcard Gateway\obj\Debug\Telegram_Gateway.frmMain.resources
+C:\Users\Administrator\Desktop\Telegram v2017 11 13\Vingcard Gateway\bin\Debug\Telegram.exe.config
+C:\Users\Administrator\Desktop\Telegram v2017 11 13\Vingcard Gateway\obj\Debug\Telegram.exe
+C:\Users\Administrator\Desktop\Telegram v2017 11 13\Vingcard Gateway\obj\Debug\Telegram.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Telegram v2017 11 13\Vingcard Gateway\obj\Debug\Telegram_Gateway.frmMain.resources
+C:\Users\Administrator\Desktop\Telegram v2017 11 13\Vingcard Gateway\obj\Debug\Telegram.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Telegram v2017 11 13\Vingcard Gateway\obj\Debug\Telegram.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Telegram v2017 11 13\Vingcard Gateway\bin\Debug\Telegram.exe
+C:\Users\Administrator\Desktop\Telegram v2017 11 13\Vingcard Gateway\bin\Debug\Telegram.pdb
+C:\Users\Administrator\Desktop\Telegram v2017 11 13\Vingcard Gateway\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Telegram v2017 11 13\Vingcard Gateway\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\Telegram v2017 11 13\Vingcard Gateway\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Administrator\Desktop\Telegram v2017 11 13\Vingcard Gateway\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Telegram v2017 11 13\Vingcard Gateway\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\Telegram v2017 11 13\Vingcard Gateway\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Administrator\Desktop\Telegram v2017 11 13\Vingcard Gateway\obj\Debug\Telegram.pdb
+C:\Users\Administrator\Desktop\Telegram v2017 11 16\Vingcard Gateway\bin\Debug\Telegram.exe.config
+C:\Users\Administrator\Desktop\Telegram v2017 11 16\Vingcard Gateway\obj\Debug\Telegram.exe
+C:\Users\Administrator\Desktop\Telegram v2017 11 16\Vingcard Gateway\obj\Debug\Telegram.pdb
+C:\Users\Administrator\Desktop\Telegram v2017 11 16\Vingcard Gateway\bin\Debug\Telegram.exe
+C:\Users\Administrator\Desktop\Telegram v2017 11 16\Vingcard Gateway\bin\Debug\Telegram.pdb
+C:\Users\Administrator\Desktop\Telegram v2017 11 16\Vingcard Gateway\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Telegram v2017 11 16\Vingcard Gateway\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\Telegram v2017 11 16\Vingcard Gateway\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Administrator\Desktop\Telegram v2017 11 16\Vingcard Gateway\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Telegram v2017 11 16\Vingcard Gateway\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\Telegram v2017 11 16\Vingcard Gateway\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Administrator\Desktop\Telegram v2017 11 16\Vingcard Gateway\obj\Debug\Telegram.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Telegram v2017 11 16\Vingcard Gateway\obj\Debug\Telegram_Gateway.frmMain.resources
+C:\Users\Administrator\Desktop\Telegram v2017 11 16\Vingcard Gateway\obj\Debug\Telegram.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Telegram v2017 11 16\Vingcard Gateway\obj\Debug\Telegram.csproj.GenerateResource.Cache
