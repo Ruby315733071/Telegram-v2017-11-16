@@ -733,6 +733,7 @@ namespace Telegram_Gateway
                     NewFastSearch();
                 }
                 MessageBox.Show(lvLock.Items.Count.ToString());
+               // MessageBox.Show(lvLock.Items.Count.ToString());
             }
             catch
             { }
