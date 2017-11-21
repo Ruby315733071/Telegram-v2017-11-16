@@ -732,7 +732,6 @@ namespace Telegram_Gateway
                     CsConst.mySends.AddBufToSndList(null, 0x000E, 255, 255, false, false, false, false);
                     NewFastSearch();
                 }
-                MessageBox.Show(lvLock.Items.Count.ToString());
                // MessageBox.Show(lvLock.Items.Count.ToString());
             }
             catch
