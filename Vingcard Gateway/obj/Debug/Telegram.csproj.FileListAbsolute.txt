@@ -72,3 +72,6 @@ C:\Users\Administrator\Desktop\Telegram v2017 11 16\Vingcard Gateway\obj\Debug\T
 C:\Users\Administrator\Desktop\Telegram v2017 11 16\Vingcard Gateway\obj\Debug\Telegram_Gateway.frmMain.resources
 C:\Users\Administrator\Desktop\Telegram v2017 11 16\Vingcard Gateway\obj\Debug\Telegram.Properties.Resources.resources
 C:\Users\Administrator\Desktop\Telegram v2017 11 16\Vingcard Gateway\obj\Debug\Telegram.csproj.GenerateResource.Cache
+C:\Users\Ruby\Documents\GitHub\Telegram-v2017-11-16\Vingcard Gateway\bin\Debug\Telegram.exe.config
+C:\Users\Ruby\Documents\GitHub\Telegram-v2017-11-16\Vingcard Gateway\obj\Debug\Telegram.exe
+C:\Users\Ruby\Documents\GitHub\Telegram-v2017-11-16\Vingcard Gateway\obj\Debug\Telegram.pdb
