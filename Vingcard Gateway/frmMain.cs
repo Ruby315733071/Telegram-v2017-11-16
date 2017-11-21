@@ -991,7 +991,7 @@ namespace Telegram_Gateway
             if (messagesSupportInProject == null) return;
             try
             {
-                //CsConst.mySends.AddBufToSndList(null, 0x5708, 1, 1, false, false, true, false);
+                CsConst.mySends.AddBufToSndList(null, 0x5708, 1, 1, false, false, true, false);
                 //HDLUDP.DealWithTunnelDataIfNeedsUpdateStruct(null);
                 if (messagesSupportInProject != null && messagesSupportInProject.Count > 0)
                 {
